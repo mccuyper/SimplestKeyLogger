@@ -1,10 +1,22 @@
 # SimplestKeyLogger
 simplest keylogger. use your imagination what you can do with this!!!
 
+IMPORTANT
+1 Python 3.x
+2. change PATH where you want to save log
+
+-----------------------------------------
+For keylogger.py :
+starting this simple code you can log every input from your keyboard. 
 
 Requirements:
-1 Python 3.x
-2. pip install pyxhook
-3. change PATH where you want to save log
+- pip install pyxhook
+
+------------------------------------------
+
+For k_logger_pynput.py :
+Requirements:
+- pip install pynput
+
 
 Happy Spying
